@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729942712872",
+    "project_id": "ammar-brew-crew-50bd9",
+    "storage_bucket": "ammar-brew-crew-50bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729942712872:android:f38bdd42eb689ca8664b1d",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzH9JPhuMCWh4B4rH9NWlu_PWS7e-FMi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
